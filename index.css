@@ -1,0 +1,162 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:"montserrat",sans-serif;
+
+}
+
+.header{
+  width:100%;
+  height:90px;
+  background:black;
+
+}
+
+.logo{
+  width:50%;
+  padding-top:10px;
+  float:left;
+}
+.login{
+  width:50%;
+  float:left;
+}
+.logo-text{
+  color:#2980b9;
+  text-decoration:none;
+  font-size:30px;
+  font-weight:bold;
+  padding:20px;
+}
+.login-control{
+  color:white;
+  padding-top:30px;
+  margin-left:20px;
+  
+}
+.login-label{
+  margin-left:20px;
+  
+}
+
+.navigatiion-menu{
+  padding-top:30px;
+  
+}
+
+.navigation-menu a{
+  text-decoration:none;
+  margin:10px;
+  margin-left:10px;
+  color:#ecf0f1;
+  text-transform:uppercase;
+
+}
+.navigation-menu a:hover{
+  
+  color: #c0392b;
+  transform: scale(1.1);
+}
+.navigation-menu i{
+  margin-right:10px;
+  font-size:20px;
+}
+.home{
+  color: #ff6b6b;
+}
+
+.about{
+  color: #0abde3;
+}
+
+
+
+.contact{
+  color: #1dd1a1;
+}
+
+.menu-toggle-btn{
+  float: right;
+  height: 90px;
+  line-height: 90px !important;
+  color: #fff;
+  font-size: 26px;
+  display: none !important;
+  cursor: pointer;
+}
+#navigation{
+  height:100vh;
+  width:250px;
+  padding-left:30px;
+  background:#bdc3c7;
+
+}
+#navigation h2{
+  padding-top:20px;
+}
+.cat a{
+  text-transform:uppercase;
+  padding-bottom:30px;
+  display:block;
+  text-decoration:none;
+  margin-top:30px;
+  font-family:"open sans",sans-serif;
+  font-weight:bold;
+  color:black;
+}
+.cat i{
+  padding-right:10px;
+}
+.cat .home{
+  color:blue;
+}
+.cat .shop{
+  color:#f1c40f;
+}
+.cat .land{
+  color:#e74c3c;
+  
+}
+#footer{
+  background:black;
+  width:100%;
+  height:100px;
+  padding:0 30px;
+  
+}
+
+.footer-container{
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+
+.logo1{
+  width: 180px;
+}
+
+.social-media{
+  margin: 20px 0;
+}
+
+.social-media a{
+  color: #fff;
+  margin-right: 25px;
+  font-size: 22px;
+  text-decoration: none;
+  transition: .3s linear;
+}
+
+.social-media a:hover{
+  color: #fc5c65;
+}
+.rights-text{
+  color:#fff;
+
+
+}
+
