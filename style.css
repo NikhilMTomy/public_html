@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Open Sans",sans-serif;
+    font-weight:bold;
+  }
+  
+ .navbar-brand h1{
+     text-transform: uppercase;
+     font-size:20px;
+     letter-spacing: 5px;
+     padding-left:30px;
+
+
+ }
+  
+  .carousel-caption{
+	top:50%;
+	transform:translateY(-50%);
+    bottom:initial;
+    text-transform:uppercase;
+    letter-spacing:4px;
+    font-family:"monteserrat",sans-serif;
+    font-weight:bold;
+
+}
+.nav-link {
+    font-family:"monteserrat",sans-serif;
+}
+.nav-item:hover{
+    color:red;
+}
+#footer{
+    
+    
+    padding-top:20px;
+  }
+  
+  .footer-container{
+    max-width: 1300px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+  }
+  .btn{
+      display:block;
+      margin-left:20px;
+      margin-top:20px;
+      
+  }
+  .btn-outline-success{
+      color:red;
+  }
+  #middle{
+      width:250px;
+      height:100vh;
+      background:#212529;
+      padding-left:30px;
+  }
+  .sidenav h2{
+      text-transform:uppercase;
+      letter-spacing: 4px;
+      font-size:23px;
+      font-family:"open-sans";
+      color:#888;
+      padding-top:30px;
+  }
+  .cat a{
+    text-transform:uppercase;
+  padding-bottom:30px;
+  display:block;
+  text-decoration:none;
+  margin-top:30px;
+  font-family:"open sans",sans-serif;
+  font-weight:400;
+  color:#fff;
+  font-size:15px;
+  letter-spacing:4px;
+  text-decoration:none;
+  
+  
+  }
+  .cat i{
+    padding-right:10px;
+  }
+  .cat .home{
+    color:#e67e22;
+  }
+  .cat .fa-store-alt{
+    color:#2980b9;
+  }
+  .cat .fa-landmark{
+    color:#e74c3c;
+    
+  }
+
+  .logo{
+    width: 180px;
+  }
+  
+  .social-media{
+    margin: 20px 0;
+  }
+  
+  .social-media a{
+    color: #001a21;
+    margin-right: 25px;
+    font-size: 22px;
+    text-decoration: none;
+    transition: .3s linear;
+  }
+  
+  .social-media a:hover{
+    color: #fc5c65;
+  }
+  .left-col h1{
+      font-family:"monteserrat",sans-serif;
+      letter-spacing:4px;
+      font-size:20px;
+      font-weight:500;
+      text-transform:uppercase;
+      color:rgb(255,255,255);
+  }
+  
+  
+  
