@@ -8,7 +8,7 @@
   </head>
   <body>
 
-    <form action="index.html" class="login-form">
+    <form action="index.php" class="login-form">
         <h1>Login</h1>
 
         <div class="txtb">
