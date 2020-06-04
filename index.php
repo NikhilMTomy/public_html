@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
-    <nav class="navbar navbar-dark bg-dark">
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
         <!-- Navbar content -->
         
             <a class="navbar-brand" href="#"><h1>rentit</h1></a>
@@ -118,7 +118,7 @@
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
               </div>
-              <p class="rights-text">© 2020 Created By DarkCode All Rights Reserved.</p>
+              <p class="rights-text">© 2020 Created By vadaka.com All Rights Reserved.</p>
             </div>
     </section>
     </nav>
